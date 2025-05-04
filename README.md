@@ -24,7 +24,7 @@
 4.Connecting:Mobile App Compatibility-Book, pay, and manage your parking from any Android or iOS device.
 # Link to presentation : https://drive.google.com/file/d/1zt9BEc0unjwheho-IaIUHSmXEhlAQyK0/view?usp=sharing
 # Link to video : https://drive.google.com/file/d/1wqgYSPVRKacGElcLfBCE5o5a32pKpCvt/view?usp=sharing
-# Team: O(1)  
+# Team: O(1) Coders 
 Team Leader : Ishwari Mohokar
 Team Members:
 @ishwariii02
